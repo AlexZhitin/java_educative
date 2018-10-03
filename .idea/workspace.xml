@@ -25,9 +25,6 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <task path="$PROJECT_DIR$/sandbox/build.gradle">
-          <activation />
-        </task>
         <projects_view />
       </state>
     </system>
@@ -62,12 +59,20 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="HelloWorld" value="1" />
+<<<<<<< HEAD
           <entry key="java" value="886" />
+=======
+          <entry key="java" value="48" />
+>>>>>>> parent of caa0383... Создана функция
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="JAVA" value="887" />
+=======
+          <entry key="JAVA" value="49" />
+>>>>>>> parent of caa0383... Создана функция
         </counts>
       </usages-collector>
     </session>
@@ -77,6 +82,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ua/stqa/educative/sandbox/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="2">
               <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
               <folding>
@@ -86,16 +92,23 @@
                 <element signature="e#622#623#0" expanded="true" />
                 <element signature="e#672#673#0" expanded="true" />
                 <element signature="e#694#695#0" expanded="true" />
+=======
+            <state relative-caret-position="90">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding>
+                <element signature="e#105#106#0" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
+>>>>>>> parent of caa0383... Создана функция
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/HelloWorld.class">
+        <entry file="file://$PROJECT_DIR$/sandbox/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="30">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -628,7 +641,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HelloWorld">
+  <component name="RunManager" selected="Application.HelloWorld1">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.stqa.educative.sandbox.HelloWorld" />
       <module name="sandbox_main" />
@@ -700,12 +713,12 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Gradle./Users/Sasha/Documents/java_educative/sandbox/build.gradle" />
+      <item itemvalue="Application.HelloWorld1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.HelloWorld1" />
         <item itemvalue="Gradle./Users/Sasha/Documents/java_educative/sandbox/build.gradle" />
       </list>
     </recent_temporary>
@@ -733,20 +746,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-321" y="-681" width="1041" height="643" extended-state="0" />
+=======
+    <frame x="-288" y="-642" width="1260" height="689" extended-state="0" />
+>>>>>>> parent of caa0383... Создана функция
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3093093" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536946" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32998326" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4994995" visible="true" weight="0.32849365" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39927405" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32998326" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+>>>>>>> parent of caa0383... Создана функция
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32998326" />
@@ -754,7 +777,11 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005005" side_tool="true" weight="0.32849365" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32998326" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32849365" />
+=======
+      <window_info anchor="right" id="Coverage" side_tool="true" />
+>>>>>>> parent of caa0383... Создана функция
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -764,7 +791,6 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -806,6 +832,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ua/stqa/educative/sandbox/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="2">
           <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
           <folding>
@@ -815,6 +842,13 @@
             <element signature="e#622#623#0" expanded="true" />
             <element signature="e#672#673#0" expanded="true" />
             <element signature="e#694#695#0" expanded="true" />
+=======
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+>>>>>>> parent of caa0383... Создана функция
           </folding>
         </state>
       </provider>
