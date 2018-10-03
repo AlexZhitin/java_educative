@@ -60,7 +60,11 @@
         <counts>
           <entry key="HelloWorld" value="1" />
 <<<<<<< HEAD
+<<<<<<< HEAD
           <entry key="java" value="886" />
+=======
+          <entry key="java" value="48" />
+>>>>>>> parent of caa0383... Создана функция
 =======
           <entry key="java" value="48" />
 >>>>>>> parent of caa0383... Создана функция
@@ -69,7 +73,11 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <entry key="JAVA" value="887" />
+=======
+          <entry key="JAVA" value="49" />
+>>>>>>> parent of caa0383... Создана функция
 =======
           <entry key="JAVA" value="49" />
 >>>>>>> parent of caa0383... Создана функция
@@ -98,6 +106,9 @@
               <folding>
                 <element signature="e#105#106#0" expanded="true" />
                 <element signature="e#155#156#0" expanded="true" />
+<<<<<<< HEAD
+>>>>>>> parent of caa0383... Создана функция
+=======
 >>>>>>> parent of caa0383... Создана функция
               </folding>
             </state>
@@ -747,7 +758,11 @@
   </component>
   <component name="ToolWindowManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <frame x="-321" y="-681" width="1041" height="643" extended-state="0" />
+=======
+    <frame x="-288" y="-642" width="1260" height="689" extended-state="0" />
+>>>>>>> parent of caa0383... Создана функция
 =======
     <frame x="-288" y="-642" width="1260" height="689" extended-state="0" />
 >>>>>>> parent of caa0383... Создана функция
@@ -764,8 +779,13 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4994995" visible="true" weight="0.32849365" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39927405" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32998326" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+>>>>>>> parent of caa0383... Создана функция
 =======
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32998326" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -778,7 +798,11 @@
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32998326" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32849365" />
+=======
+      <window_info anchor="right" id="Coverage" side_tool="true" />
+>>>>>>> parent of caa0383... Создана функция
 =======
       <window_info anchor="right" id="Coverage" side_tool="true" />
 >>>>>>> parent of caa0383... Создана функция
@@ -848,6 +872,9 @@
           <folding>
             <element signature="e#105#106#0" expanded="true" />
             <element signature="e#155#156#0" expanded="true" />
+<<<<<<< HEAD
+>>>>>>> parent of caa0383... Создана функция
+=======
 >>>>>>> parent of caa0383... Создана функция
           </folding>
         </state>

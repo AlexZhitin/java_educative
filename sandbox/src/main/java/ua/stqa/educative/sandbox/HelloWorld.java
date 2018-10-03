@@ -4,6 +4,7 @@ import java.sql.SQLOutput;
 
 public class HelloWorld {
 <<<<<<< HEAD
+<<<<<<< HEAD
   public static void main(String[] args) {
     hello("world");
     hello("guys");
@@ -29,6 +30,8 @@ public class HelloWorld {
     return a * b;
   }
 =======
+=======
+>>>>>>> parent of caa0383... Создана функция
     public static void main(String[] args) {
         System.out.println("Hello, World");
     }
